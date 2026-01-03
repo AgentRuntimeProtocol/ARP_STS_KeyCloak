@@ -2,7 +2,7 @@ from __future__ import annotations
 
 __all__ = ["__version__", "DEFAULT_REALM", "DEFAULT_CLIENTS"]
 
-__version__ = "0.2.1"
+__version__ = "0.2.2"
 DEFAULT_REALM = "arp-dev"
 DEFAULT_CLIENTS = (
     "arp-daemon",
